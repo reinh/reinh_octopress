@@ -48,9 +48,9 @@ always entail a certain amount of risk.
 During my vacation, I spent a lot of time playing piano and writing music. It
 felt good to give my creative muscles some much-needed exercise. I assessed my
 career and my goals. I read a lot. I played some video games. I quickly found,
-however, that living without a "<a
-  href="http://37signals.com/svn/posts/1930-mojito-island-is-a-mirage">dedicated
-  purpose</a>" was less than satisfying. I was not happy leaving my tools in
+however, that living without a 
+"<a href="http://37signals.com/svn/posts/1930-mojito-island-is-a-mirage">dedicated purpose</a>"
+was less than satisfying. I was not happy leaving my tools in
 the corner to gather dust: they needed to be used. So, how best to use them?
 
 I decided, after some consideration, that what I wanted was the opportunity to
