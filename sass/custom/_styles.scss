@@ -11,11 +11,16 @@
   font-weight: 400;
 }
 
-article h1, hgroup h1 {
+article h1 {
   letter-spacing: -2px;
 }
 
-time, .meta {
+hgroup h1 a {
+  letter-spacing: -3px;
+  font-weight: 600;
+}
+
+time, .meta, .categories {
   font-family: brevia,sans-serif;
   font-style: normal;
   font-weight: 300;
