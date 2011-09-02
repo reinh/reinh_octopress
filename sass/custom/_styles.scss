@@ -1,2 +1,26 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+.heading, .sans {
+  font-family: brevia, sans-serif;
+}
+
+.serif {
+  font-family: chaparral-pro, monospace;
+  font-style: normal;
+  font-weight: 400;
+}
+
+article h1, hgroup h1 {
+  letter-spacing: -2px;
+}
+
+time, .meta {
+  font-family: brevia,sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+#tweets li {
+  @extend .serif;
+}
