@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  "Story Driven Development With Rails"
+title:  "Story Driven Development With&nbsp;Rails"
 date:   2008-09-12
 --- 
 

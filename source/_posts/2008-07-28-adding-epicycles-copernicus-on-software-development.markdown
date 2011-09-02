@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  'Adding Epicycles: Copernicus On Software Development'
+title:  'Adding Epicycles: Copernicus On Software&nbsp;Development'
 date:   2008-07-20
 --- 
 

@@ -10,6 +10,8 @@ objects based on a local ref -- in other words, to push your local changes to an
 upstream repository -- but you can also use it to create or delete remote
 branches and ~~much, much more!~~ actually, that's about it.
 
+<!--more-->
+
 ## Just The Tip
 
 The most common use of `git push` is to push your local changes to your public
