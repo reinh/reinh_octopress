@@ -2,6 +2,7 @@
 layout: post
 title:  "Git Push: Just The Tip"
 date:   2008-03-02
+categories: [git]
 ---
 
 Today we delve into the world of `git push`, one of the most often used git

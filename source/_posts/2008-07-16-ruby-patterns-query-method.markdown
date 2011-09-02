@@ -2,6 +2,7 @@
 layout: post
 title:  'Ruby Patterns: Query Method'
 date:   2008-07-17
+categories: [Patterns, Ruby]
 --- 
 
 Today, we will learn how the Query Method pattern handles a set of tensions we often

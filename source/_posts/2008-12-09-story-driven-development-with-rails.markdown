@@ -2,6 +2,7 @@
 layout: post
 title:  "Story Driven Development With&nbsp;Rails"
 date:   2008-09-12
+categories: [Agile, Ruby, Rails, TDD]
 --- 
 
 As a follow up on [writing incremental stories](http://reinh.com/blog/2008/08/29/incremental-stories-and-micro-releases.html),

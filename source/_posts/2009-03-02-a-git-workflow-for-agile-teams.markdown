@@ -2,6 +2,7 @@
 layout: post
 title:  "A Git Workflow for Agile Teams"
 date:   2009-03-02
+categories: [git, Agile]
 --- 
 
 An efficient workflow for developers in Agile teams that handles features and
